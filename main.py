@@ -5,7 +5,7 @@ from selene import be, have
 
 @pytest.fixture
 def set_browser_resolution():
-    browser.config.window_height = 1090
+    browser.config.window_height = 1080
     browser.config.window_width = 1700
 
 

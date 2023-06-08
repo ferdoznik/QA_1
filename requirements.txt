@@ -1,0 +1,4 @@
+pytest
+selene>=2.0.0b4
+selenium==4.10.0
+Faker
